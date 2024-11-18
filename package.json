@@ -1,0 +1,29 @@
+{
+  "name": "@armoredeagle/streamerjs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "ArmoredEagle",
+  "license": "GPL-3.0",
+  "description": "This is a package I made just for my bot. You are free to use it, but no support will be provided at all as it was intended for private use. No re-uploading or claiming as your own.",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "puppeteer": "^23.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armoredeagle69/streamerjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armoredeagle69/streamerjs/issues"
+  },
+  "homepage": "https://github.com/armoredeagle69/streamerjs#readme"
+}
